@@ -3,7 +3,7 @@ var app = express();
 
 // Routes
 app.get('/', function(req, res) {
-  res.send('gday World!');
+  res.send('test World!');
 });
 
 // Listen
